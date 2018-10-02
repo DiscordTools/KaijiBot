@@ -1,0 +1,3 @@
+-help - neue commands
+-commands schicker machen
+-englische übersetzung
